@@ -189,5 +189,5 @@ root.title("Calculator")
 root.geometry("364x460+80+80")
 root.resizable(False, False)
 
-b = calc(root)
+calc(root)
 root.mainloop()
