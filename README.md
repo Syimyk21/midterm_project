@@ -1,6 +1,4 @@
-This is my first project.
-
-It's a calculator between simple and scientific calculator.
+A calculator between simple and scientific calculator.
 
 You don't need to install anything. 
 
